@@ -1,0 +1,1 @@
+An auction system replication built with Java.
